@@ -1,6 +1,8 @@
 Trinidad hotdeploy extension
 ======
 
+[IMPORTANT] If you are running more recent version of Trinidad this extension is not needed anymore because the core itself performs hotdeploy.
+
 # DESCRIPTION
 
 Extension to allow Trinidad to redeploy an application each time a file, for instance tmp/restart.txt, is modified without restarting Tomcat.
